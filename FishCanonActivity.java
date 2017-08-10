@@ -260,4 +260,5 @@ public class FishCanonActivity extends AnyfishActivity implements ILongClikView
     }
     // 在线修改--增加注释
     // 通过TortoiseGit进行修改
+    // 在线修改后，通过TortoiseGit本地检出
 }
