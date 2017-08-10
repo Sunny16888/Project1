@@ -258,4 +258,5 @@ public class FishCanonActivity extends AnyfishActivity implements ILongClikView
             mIconList.add(item);
         }
     }
+    // 在线修改--增加注释
 }
